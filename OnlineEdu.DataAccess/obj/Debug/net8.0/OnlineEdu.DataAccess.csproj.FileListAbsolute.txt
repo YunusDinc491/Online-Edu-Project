@@ -1,0 +1,11 @@
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.DataAccess.deps.json
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.DataAccess.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.DataAccess.pdb
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.AssemblyInfo.cs
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\refint\OnlineEdu.DataAccess.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.pdb
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\ref\OnlineEdu.DataAccess.dll

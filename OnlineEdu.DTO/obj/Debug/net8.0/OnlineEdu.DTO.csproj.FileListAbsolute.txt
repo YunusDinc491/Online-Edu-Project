@@ -1,0 +1,11 @@
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\bin\Debug\net8.0\OnlineEdu.DTO.deps.json
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\bin\Debug\net8.0\OnlineEdu.DTO.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\bin\Debug\net8.0\OnlineEdu.DTO.pdb
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.AssemblyInfoInputs.cache
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.AssemblyInfo.cs
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\obj\Debug\net8.0\refint\OnlineEdu.DTO.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.pdb
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DTO\obj\Debug\net8.0\ref\OnlineEdu.DTO.dll
