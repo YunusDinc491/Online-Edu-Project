@@ -9,3 +9,8 @@ C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\refint\OnlineEdu.DataAccess.dll
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.pdb
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\ref\OnlineEdu.DataAccess.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.Entity.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.Entity.pdb
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.sourcelink.json
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEd.EAC0992C.Up2Date

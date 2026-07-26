@@ -15,7 +15,7 @@ namespace OnlineEdu.Entity.Entities
         public int CategoryId { get; set; }
         public decimal Price { get; set; }
 
-        public CourseCategory Category { get; set; }
+        public CourseCategory CourseCategory { get; set; }
 
         public bool IsShown { get; set; }
 

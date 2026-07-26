@@ -9,3 +9,7 @@ C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Entity\obj\
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Entity\obj\Debug\net8.0\refint\OnlineEdu.Entity.dll
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.pdb
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Entity\obj\Debug\net8.0\ref\OnlineEdu.Entity.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Entity\bin\Debug\net8.0\OnlineEdu.Entity.runtimeconfig.json
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.csproj.AssemblyReference.cache
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.sourcelink.json
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.genruntimeconfig.cache
