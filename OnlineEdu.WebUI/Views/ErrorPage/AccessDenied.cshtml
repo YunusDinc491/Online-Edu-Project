@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Erişim Reddedildi";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="~/matrix-admin-master/dist/css/style.min.css" rel="stylesheet">
+    <title>Erişim Reddedildi</title>
+</head>
+<body>
+    <div class="main-wrapper">
+        <div class="error-box">
+            <div class="error-body text-center">
+                <h1 class="error-title text-danger">403</h1>
+                <h3 class="text-uppercase error-subtitle">Bu Sayfaya Erişim Yetkiniz Yok!</h3>
+                <p class="text-muted m-t-30 m-b-30">Buyrun sizi Ana Sayfaya alalım.</p>
+                <a href="/Home/Index" class="btn btn-danger btn-rounded waves-effect waves-light m-b-40">Ana Sayfaya Dön</a>
+            </div>
+        </div>
+    </div>
+    <script src="~/matrix-admin-master/assets/libs/jquery/dist/jquery.min.js"></script>
+    <script src="~/matrix-admin-master/assets/libs/popper.js/dist/umd/popper.min.js"></script>
+    <script src="~/matrix-admin-master/assets/libs/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+</html>

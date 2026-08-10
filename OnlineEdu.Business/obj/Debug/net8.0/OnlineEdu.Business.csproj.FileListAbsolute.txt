@@ -16,3 +16,5 @@ C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Business\bi
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Business\obj\Debug\net8.0\OnlineEdu.Business.csproj.AssemblyReference.cache
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Business\obj\Debug\net8.0\OnlineEdu.Business.sourcelink.json
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Business\obj\Debug\net8.0\OnlineEd.A3CBB867.Up2Date
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Business\bin\Debug\net8.0\OnlineEdu.DTO.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.Business\bin\Debug\net8.0\OnlineEdu.DTO.pdb

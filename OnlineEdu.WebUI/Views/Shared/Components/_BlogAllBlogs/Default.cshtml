@@ -1,0 +1,29 @@
+@model List<ResultBlogDto>
+
+<div class="col-lg-8 mb-5 mb-lg-0">
+    <div class="blog_left_sidebar">
+        @foreach (var item in Model)
+        {
+            <article class="blog_item">
+                <div class="blog_item_img">
+                    <img class="card-img rounded-0" src="@item.ImageUrl" alt="">
+                    <a href="#" class="blog_item_date">
+                        <h3>@item.BlogDate.Day</h3>
+                        <p>@item.BlogDate.ToString("MMM")</p>
+                    </a>
+                </div>
+                <div class="blog_details">
+                    <a class="d-inline-block" href="/Blog/BlogDetails/@item.BlogId">
+                        <h2 class="blog-head" style="color: #2d2d2d;">@item.Title</h2>
+                    </a>
+                    <p>
+                        @(item.Content.Length > 50 ? item.Content.Substring(0, 50) : item.Content) ...
+                    </p>
+                    <ul class="blog-info-link">
+                        <li><a href="#"><i class="fa fa-list-ol"></i> @item.blogCategory?.Name</a></li>
+                    </ul>
+                </div>
+            </article>
+        }
+    </div>
+</div>

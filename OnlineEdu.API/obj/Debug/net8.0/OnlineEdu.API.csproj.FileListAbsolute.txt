@@ -27,7 +27,6 @@ C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\obj\Deb
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\obj\Debug\net8.0\OnlineEd.8A630DBF.Up2Date
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\obj\Debug\net8.0\OnlineEdu.API.dll
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\obj\Debug\net8.0\refint\OnlineEdu.API.dll
@@ -148,3 +147,11 @@ C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Deb
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lider\Desktop\Online Edu Projesi\OnlineEduProject\OnlineEdu.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

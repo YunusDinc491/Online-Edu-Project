@@ -17,5 +17,8 @@ namespace OnlineEdu.Entity.Entities
 
         public int BlogCategoryId { get; set; }
         public BlogCategory blogCategory { get; set; }
+
+        public int? WriterId { get; set; }
+        public virtual AppUser Writer { get; set; }
     }
 }
